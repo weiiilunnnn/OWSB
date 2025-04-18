@@ -35,19 +35,19 @@
           <mxGeometry x="258" y="425" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-25" value="4.&amp;nbsp; Display Requisition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1573" y="134" width="310" height="30" as="geometry" />
+          <mxGeometry x="1549" y="134" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jjTm92XMzpjh0tlSSGX0-27" target="jjTm92XMzpjh0tlSSGX0-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-27" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1636" y="186" width="120" height="50" as="geometry" />
+          <mxGeometry x="1612" y="186" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jjTm92XMzpjh0tlSSGX0-29" target="jjTm92XMzpjh0tlSSGX0-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-29" value="Access Display PR&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;m&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;enu&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1636" y="274" width="120" height="50" as="geometry" />
+          <mxGeometry x="1612" y="274" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jjTm92XMzpjh0tlSSGX0-32" target="jjTm92XMzpjh0tlSSGX0-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,19 +56,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-32" value="View List of PRs" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1636" y="364" width="120" height="55" as="geometry" />
+          <mxGeometry x="1612" y="364" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jjTm92XMzpjh0tlSSGX0-34" target="jjTm92XMzpjh0tlSSGX0-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-34" value="View PR Details (Item Code, Quantity, Date Needed, Status)" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1636" y="464" width="120" height="60" as="geometry" />
+          <mxGeometry x="1612" y="464" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-35" value="End of View PR Process" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1636" y="569" width="120" height="50" as="geometry" />
+          <mxGeometry x="1612" y="569" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-36" value="Status&lt;div&gt;Pending, Approved, Rejected&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1836" y="361.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1812" y="361.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jjTm92XMzpjh0tlSSGX0-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jjTm92XMzpjh0tlSSGX0-49" target="jjTm92XMzpjh0tlSSGX0-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
